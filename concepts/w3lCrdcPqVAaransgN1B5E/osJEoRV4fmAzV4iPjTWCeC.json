@@ -1,0 +1,30 @@
+{
+  "uri" : "local://osJEoRV4fmAzV4iPjTWCeC/",
+  "name" : "test view",
+  "category" : "",
+  "parent" : "local://w3lCrdcPqVAaransgN1B5E/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "htmlContent",
+    "expr" : {
+      "str" : "<html>\n    <head>\n        <script type=\"text/javascript\" charset=\"utf8\" src=\"/resourcelocal://U5vaBrZLl7ArKKtTa2giE6/\"></script>\n    </head>\n    <body>\n        \n    </body>\n</html>",
+      "strEditMode" : "html",
+      "type" : "STRING"
+    }
+  }, {
+    "name" : "page",
+    "expr" : {
+      "concept" : "/common/core/iduwOQ2KZv8MWqamwqb6AE/",
+      "bindings" : {
+        "html" : "htmlContent"
+      },
+      "type" : "CONCEPT"
+    }
+  } ],
+  "isas" : [ {
+    "var" : "page"
+  } ],
+  "encodedidxhash" : "",
+  "isLambda" : false
+}

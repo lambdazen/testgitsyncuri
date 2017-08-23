@@ -1,0 +1,37 @@
+{
+  "uri" : "local://U5vaBrZLl7ArKKtTa2giE6/",
+  "name" : "test.js",
+  "category" : "",
+  "parent" : "local://w3lCrdcPqVAaransgN1B5E/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "_ssjs_jsContent",
+    "expr" : {
+      "str" : "import {foo} from \"local://q704UtaSUOBOA4BcuVifu7/entry.js\";\n\nalert(\"foo value=\"+foo());",
+      "type" : "STRING"
+    }
+  }, {
+    "name" : "_ssjs_fileName",
+    "expr" : {
+      "str" : "test.js",
+      "strEditMode" : "",
+      "type" : "STRING"
+    }
+  }, {
+    "name" : "ssjs",
+    "expr" : {
+      "concept" : "/common/core/30kVfcSl3k8Q_Kubtcb631/",
+      "bindings" : {
+        "jsContent" : "_ssjs_jsContent",
+        "fileName" : "_ssjs_fileName"
+      },
+      "type" : "CONCEPT"
+    }
+  } ],
+  "isas" : [ {
+    "var" : "ssjs"
+  } ],
+  "encodedidxhash" : "",
+  "isLambda" : false
+}
