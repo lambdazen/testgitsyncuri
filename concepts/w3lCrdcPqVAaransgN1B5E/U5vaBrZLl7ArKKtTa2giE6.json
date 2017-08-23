@@ -8,7 +8,7 @@
   "vars" : [ {
     "name" : "_ssjs_jsContent",
     "expr" : {
-      "str" : "import {foo} from \"local://q704UtaSUOBOA4BcuVifu7/entry.js\";\n\nalert(\"foo's value=\"+foo());",
+      "str" : "import {foo} from \"localS://q704UtaSUOBOA4BcuVifu7/entry.js\";\n\nalert(\"foo's value=\"+foo());",
       "type" : "STRING"
     }
   }, {
